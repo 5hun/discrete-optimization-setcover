@@ -13,4 +13,6 @@ The solution can get full score (60 / 60) for the assignment <sup>[1](#environme
 
 See `handout.pdf`.
 
-<a name="environment">1</a> I tested the solution under the following environment: Python 3.7.6, MIPCL-PY 2.5.4, Google OR-Tools 7.5.7466, Intel Core i9 3.60GHz(8 cores), 16 GB RAM.
+---
+
+<a name="environment">1.</a> I tested the solution under the following environment: Python 3.7.6, MIPCL-PY 2.5.4, Google OR-Tools 7.5.7466, Intel Core i9 3.60GHz(8 cores), 16 GB RAM.

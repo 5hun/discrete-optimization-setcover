@@ -11,7 +11,7 @@ The solution can get full score (60 / 60) for the assignment <sup>[1](#environme
 
 ## Usage
 
-See `handout.pdf`.
+See [handout.pdf](handout.pdf).
 
 ---
 
